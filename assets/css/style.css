@@ -1,43 +1,3 @@
-/*--------------------------------------------------------------
->> TABLE OF CONTENTS:
-----------------------------------------------------------------
-1. Typography
-2. Spacing
-3. General
-4. Button
-5. Slider
-6. Isotope
-7. Video Popup
-8. Select2
-9. Sidebar
-10. Portfolio Details
-11. Post Details
-12. Scroll Up
-13. Header
-14. Footer
-15. Accordian
-16. Counter
-17. CTA
-18. Demo Box
-19. Donation
-20. Event
-21. Form
-22. Hero
-23. Horizontal Scroll
-24. Icon Box
-25. Logo Carousel
-26. Team Member
-27. News Letter
-28. Portfolio
-29. Post
-30. Pricing Table
-31. Progressbar
-32. Section Heading
-33. Testimonial
-34. Text Box
-35. Video Block
-
---------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;family=Mulish:wght@400;500;600;700;800;900&amp;display=swap");
 /*--------------------------------------------------------------
 1. Typography
@@ -143,7 +103,7 @@ a:hover {
   .cs-preloader__in:after {
     content: '';
     border: 3px solid #e9e3fb;
-    border-top-color: #263a5d;
+    border-top-color: #fd7e14;
     border-radius: 50%;
     position: absolute;
     width: 100%;
@@ -458,7 +418,7 @@ a:hover {
   color: #fcd205; }
 
 .cs-orange__color {
-  color: #ee7673; }
+  color: #fd7e14; }
 
 .cs-green__color {
   color: #6ad035; }
@@ -502,7 +462,7 @@ hr {
   justify-content: center; }
 
 .cs-review {
-  color: #fdc716;
+  color: #fd7e14;
   font-family: "Font Awesome 5 Free";
   font-size: 15px;
   line-height: 1.2em;
@@ -525,7 +485,7 @@ hr {
   color: #263a5d; }
 
 .cs-yellow {
-  color: #ecbf24; }
+  color: #fd7e14; }
 
 .cs-pink {
   color: #fb4c9b; }
@@ -549,7 +509,7 @@ hr {
   background-color: #453b6f; }
 
 .cs-accent__bg {
-  background-color: #5e2ced; }
+  background-color: #fd7e14; }
 
 .cs-primary__bg {
   background-color: #263a5d; }
@@ -564,7 +524,7 @@ hr {
   background-color: #; }
 
 .cs-gradient__bg1 {
-  background: linear-gradient(90deg, #5e2ced 0%, #ff6600 100%); }
+  background: linear-gradient(90deg, #fd7e14 0%, #ff6600 100%); }
 
 .cs-left__full__width {
   height: 100%;
@@ -604,7 +564,7 @@ hr {
     margin-right: 15px;
     position: relative;
     top: 1px;
-    color: #5e2ced; }
+    color: #fd7e14; }
   .cs-list.cs-style1 li:not(:last-child) {
     margin-bottom: 10px; }
 
@@ -966,10 +926,10 @@ hr {
   transition: all 0.6s ease; }
 
 .cs-purpel__bg {
-  background-color: #5e2ced; }
+  background-color: #fd7e14; }
 
 .cs-green__bg {
-  background-color: #; }
+  background-color: #fd7e14; }
 
 .cs-yellow__bg {
   background-color: #ecbf24; }
@@ -1193,18 +1153,18 @@ hr {
   .cs-btn.cs-style1.cs-rounded__btn {
     border-radius: 1.6em; }
   .cs-btn.cs-style1.cs-color1 {
-    background-color: #5e2ced;
+    background-color: #fd7e14;
     color: #fff; }
     .cs-btn.cs-style1.cs-color1:hover {
       background-color: rgba(94, 44, 237, 0.1);
-      border-color: #5e2ced;
-      color: #5e2ced; }
+      border-color: #fd7e14;
+      color: #fd7e14; }
   .cs-btn.cs-style1.cs-color2 {
     background-color: transparent;
-    color: #5e2ced;
-    border-color: #5e2ced; }
+    color: #fd7e14;
+    border-color: #fd7e14; }
     .cs-btn.cs-style1.cs-color2:hover {
-      background-color: #5e2ced;
+      background-color: #fd7e14;
       color: #fff; }
   .cs-btn.cs-style1.cs-color3 {
     background-color: transparent;
@@ -1212,9 +1172,9 @@ hr {
     border-color: #fff; }
     .cs-btn.cs-style1.cs-color3:hover {
       background-color: #fff;
-      color: #5e2ced; }
+      color: #fd7e14; }
   .cs-btn.cs-style1.cs-color4 {
-    background-color: #5e2ced;
+    background-color: #fd7e14;
     color: #fff; }
     .cs-btn.cs-style1.cs-color4:hover {
       background-color: rgba(255, 255, 255, 0.1);
@@ -1229,10 +1189,10 @@ hr {
       border-color: #fff;
       color: #fff; }
   .cs-btn.cs-style1.cs-color6 {
-    background: linear-gradient(90deg, #5e2ced 0%, #2992fb 100%);
+    background: linear-gradient(90deg, #fd7e14 0%, #2992fb 100%);
     color: #fff; }
     .cs-btn.cs-style1.cs-color6:hover {
-      background: linear-gradient(90deg, #2992fb 0%, #5e2ced 100%);
+      background: linear-gradient(90deg, #2992fb 0%, #fd7e14 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color7 {
     background: linear-gradient(90deg, #ecbf24 0%, # 100%);
@@ -1289,13 +1249,13 @@ hr {
   .cs-btn.cs-style2.cs-type1 {
     font-weight: bold;
     font-size: 18px;
-    color: #5e2ced; }
+    color: #fd7e14; }
     .cs-btn.cs-style2.cs-type1 i {
       margin-left: 12px; }
   .cs-btn.cs-style2.cs-type2 {
     font-weight: 600;
     font-size: 16px;
-    color: #5e2ced; }
+    color: #fd7e14; }
   .cs-btn.cs-style2.cs-color1 {
     color: #ecbf24; }
 
@@ -1339,7 +1299,7 @@ hr {
     margin-top: -5px;
     margin-bottom: -5px; }
   .cs-player__btn.cs-style1.cs-color1 {
-    color: #5e2ced;
+    color: #fd7e14;
     border: 1px solid rgba(94, 44, 237, 0.2); }
     .cs-player__btn.cs-style1.cs-color1 .cs-player__btn__in {
       background-color: rgba(28, 25, 241, 0.1); }
@@ -1352,7 +1312,7 @@ hr {
       box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25); }
   .cs-player__btn.cs-style1.cs-color3 {
     background-color: #fff;
-    color: #5e2ced; }
+    color: #fd7e14; }
     .cs-player__btn.cs-style1.cs-color3 .cs-video__animaiton span {
       box-shadow: 0 0 0 1px #fff; }
 
@@ -1448,7 +1408,7 @@ hr {
   .cs-pagination.cs-style1 li {
     height: 8px;
     width: 25px;
-    background-color: #5e2ced;
+    background-color: #fd7e14;
     border-radius: 3px;
     margin: 0 12px 0 0;
     cursor: pointer;
@@ -1514,7 +1474,7 @@ hr {
     padding: 15px;
     transition: all 0.3s ease; }
     .cs-slider__arrows.cs-style2 .slick-arrow:hover {
-      color: #5e2ced; }
+      color: #fd7e14; }
 
 .slick-dotted:not(.slider-nav),
 .slider-for {
@@ -2048,7 +2008,7 @@ hr {
 .select2-container--default .select2-results__option[aria-selected=true],
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
   background-color: rgba(94, 44, 237, 0.1);
-  color: #5e2ced; }
+  color: #fd7e14; }
 
 .select2-container--default .select2-search--dropdown .select2-search__field {
   outline: none;
@@ -2112,7 +2072,7 @@ hr {
   .cs-recent__posts .cs-recent__post__title a {
     display: block; }
     .cs-recent__posts .cs-recent__post__title a:hover {
-      color: #5e2ced; }
+      color: #fd7e14; }
 .cs-recent__posts .cs-recent__post__thumb__in {
   height: 100%;
   width: 100%;
@@ -2145,7 +2105,7 @@ hr {
   .cs-sidebar__item.widget_pages a:hover,
   .cs-sidebar__item.widget_meta a:hover,
   .cs-sidebar__item.widget_nav_menu a:hover {
-    color: #5e2ced; }
+    color: #fd7e14; }
   .cs-sidebar__item.widget_categories a:before,
   .cs-sidebar__item.widget_archive a:before,
   .cs-sidebar__item.widget_pages a:before,
@@ -2275,7 +2235,7 @@ hr {
   #author:focus,
   #email:focus {
     outline: none;
-    border-color: #5e2ced; }
+    border-color: #fd7e14; }
 
 #comment {
   height: 140px;
@@ -2404,7 +2364,7 @@ hr {
     left: 0; }
 
 .comment-list .fn a:hover {
-  color: #5e2ced; }
+  color: #fd7e14; }
 
 .comment-list .comment-meta a:hover {
   color: #263a5d; }
@@ -2429,7 +2389,7 @@ hr {
     font-size: 14px;
     margin-left: 3px; }
   .comment-list .reply a:hover {
-    color: #5e2ced; }
+    color: #fd7e14; }
 
 .comment-list .bypostauthor .comment-body:last-child {
   margin-bottom: 0; }
@@ -2440,7 +2400,7 @@ hr {
 
 #commentform p.logged-in-as a:hover {
   text-decoration: underline;
-  color: #5e2ced; }
+  color: #fd7e14; }
 
 .comment-reply-title small {
   margin-left: 15px;
@@ -2452,8 +2412,8 @@ hr {
   text-decoration: underline; }
 
 input#submit {
-  background-color: #5e2ced;
-  border: 2px solid #5e2ced;
+  background-color: #fd7e14;
+  border: 2px solid #fd7e14;
   color: #fff;
   padding: 3px 26px;
   display: block;
@@ -2461,7 +2421,7 @@ input#submit {
   cursor: pointer;
   transition: all 0.3s ease; }
   input#submit:hover {
-    color: #5e2ced;
+    color: #fd7e14;
     background-color: rgba(94, 44, 237, 0.1); }
 
 @media screen and (max-width: 991px) {
@@ -2497,8 +2457,8 @@ input#submit {
 
 #cs-scrollup:hover {
   color: #fff;
-  border-color: #5e2ced;
-  background-color: #5e2ced; }
+  border-color: #fd7e14;
+  background-color: #fd7e14; }
 
 #cs-scrollup.scrollup-show {
   bottom: 25px; }
@@ -2607,7 +2567,7 @@ input#submit {
       bottom: 0;
       left: 0;
       margin: auto;
-      background: #5e2ced; }
+      background: #fd7e14; }
     .cs-site__header.cs-style2 .cs-nav.active {
       opacity: 1;
       visibility: visible; }
@@ -2763,7 +2723,7 @@ input#submit {
 
 .cs-toolbox__btn {
   border-radius: 22px;
-  background-color: #5e2ced;
+  background-color: #fd7e14;
   box-shadow: 0px 10px 40px 0px rgba(94, 44, 237, 0.3);
   color: #fefefe;
   font-size: 17px;
@@ -2784,7 +2744,7 @@ input#submit {
   border-radius: 50%;
   font-size: 17px; }
   .cs-toolbox__icon__btn:hover {
-    background-color: #5e2ced;
+    background-color: #fd7e14;
     color: #fff; }
 
 .cs-header__toolbox-nav {
@@ -2864,7 +2824,7 @@ input#submit {
       .cs-nav .cs-nav__list > li {
         margin-right: 30px; }
         .cs-nav .cs-nav__list > li.current-menu-item > a {
-          color: #5e2ced; }
+          color: #fd7e14; }
         .cs-nav .cs-nav__list > li.menu-item-has-children > a:after {
           content: "\f0d7";
           font-family: "Font Awesome 5 Free";
@@ -2884,7 +2844,7 @@ input#submit {
           display: flex;
           align-items: center; }
           .cs-nav .cs-nav__list > li > a:hover {
-            color: #5e2ced; }
+            color: #fd7e14; }
         .cs-nav .cs-nav__list > li > ul {
           left: 0;
           top: calc(100px + 15px); }
@@ -2923,7 +2883,7 @@ input#submit {
           padding: 9px 20px; }
           .cs-nav .cs-nav__list ul a:hover {
             background-color: rgba(94, 44, 237, 0.1);
-            color: #5e2ced; }
+            color: #fd7e14; }
         .cs-nav .cs-nav__list ul ul {
           top: 15px;
           left: 100%; }
@@ -3172,7 +3132,7 @@ input#submit {
     display: inline-flex;
     margin-right: 20px;
     font-size: 18px;
-    color: #5e2ced; }
+    color: #fd7e14; }
     .cs-social__btns.cs-style1 a:last-child {
       margin-right: 0; }
 
@@ -3242,7 +3202,7 @@ input#submit {
     .cs-footer.cs-style1.cs-color1 .cs-copyright {
       color: #3e506e; }
     .cs-footer.cs-style1.cs-color1 a:hover {
-      color: #5e2ced; }
+      color: #fd7e14; }
     .cs-footer.cs-style1.cs-color1 .cs-address__widgert ul li i {
       color: #263a5d; }
   .cs-footer.cs-style1.cs-color2 {
@@ -3377,7 +3337,7 @@ input#submit {
   font-size: 60px;
   font-weight: 800;
   margin-bottom: 15px;
-  color: #5e2ced;
+  color: #fd7e14;
   line-height: 1.25em; }
 .cs-counter.cs-style1 .cs-counter__title {
   font-size: 24px;
@@ -3555,7 +3515,7 @@ input#submit {
 17. CTA
 ----------------------------------------------------------------*/
 .cs-cta.cs-style1 {
-  background-color: #5e2ced; }
+  background-color: #fd7e14; }
   .cs-cta.cs-style1 .cs-cta-in {
     padding: 35px 0;
     min-height: 120px; }
@@ -3570,7 +3530,7 @@ input#submit {
     justify-content: space-between;
     flex-wrap: wrap; }
   .cs-cta.cs-style1.cs-color1 {
-    background: linear-gradient(90deg, # 0%, #5e2ced 100%); }
+    background: linear-gradient(90deg, # 0%, #fd7e14 100%); }
   .cs-cta.cs-style1.cs-color2 {
     background: #263a5d; }
 
@@ -3913,12 +3873,12 @@ a.cs-demo__box.cs-style1:hover {
 .ui-widget-header .ui-state-highlight {
   border-color: rgba(94, 44, 237, 0.1);
   background: rgba(94, 44, 237, 0.1);
-  color: #5e2ced; }
+  color: #fd7e14; }
 
 .ui-state-active,
 .ui-widget-content .ui-state-active {
-  border-color: #5e2ced;
-  background: #5e2ced;
+  border-color: #fd7e14;
+  background: #fd7e14;
   color: #fff; }
 
 .cs-form__field {
@@ -3932,7 +3892,7 @@ a.cs-demo__box.cs-style1:hover {
   transition: all 0.3s ease; }
   .cs-form__field:focus {
     outline: none;
-    border-color: #5e2ced; }
+    border-color: #fd7e14; }
 
 .cs-icon__form__field {
   position: relative; }
@@ -3948,7 +3908,7 @@ a.cs-demo__box.cs-style1:hover {
   display: flex;
   align-items: center;
   padding: 70px 50px;
-  background-color: #5e2ced;
+  background-color: #fd7e14;
   position: relative;
   z-index: 1;
   border-radius: 5px; }
@@ -4033,7 +3993,7 @@ a.cs-demo__box.cs-style1:hover {
     font-weight: 900;
     margin-bottom: 30px; }
     .cs-hero.cs-style1 .cs-hero__title b {
-      color: #5e2ced; }
+      color: #fd7e14; }
   .cs-hero.cs-style1 .cs-hero__subtitle {
     margin-bottom: 53px; }
   .cs-hero.cs-style1 .cs-hero__text {
@@ -4164,7 +4124,7 @@ a.cs-demo__box.cs-style1:hover {
       width: 100%;
       left: 0;
       top: 0;
-      background: linear-gradient(90deg, #5e2ced 0%, # 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, # 100%);
       opacity: 0.8; }
     .cs-hero.cs-style3 .cs-hero__img img {
       height: 100%;
@@ -4761,7 +4721,7 @@ a.cs-demo__box.cs-style1:hover {
     .cs-icon__box.cs-style1 .cs-icon__box__icon svg {
       height: 60px;
       width: 60px;
-      fill: #5e2ced; }
+      fill: #fd7e14; }
   .cs-icon__box.cs-style1 .cs-icon__box__title {
     font-size: 24px;
     font-weight: bold;
@@ -4778,7 +4738,7 @@ a.cs-demo__box.cs-style1:hover {
     border-color: transparent;
     box-shadow: 0px 0px 15px 0px rgba(94, 44, 237, 0.1); }
   .cs-icon__box.cs-style1:hover .cs-icon__box__btn__icon {
-    color: #5e2ced; }
+    color: #fd7e14; }
 
 .cs-icon__box.cs-style2 {
   padding: 30px;
@@ -4791,7 +4751,7 @@ a.cs-demo__box.cs-style1:hover {
     .cs-icon__box.cs-style2 .cs-icon__box__icon svg {
       height: 60px;
       width: 60px;
-      fill: #5e2ced; }
+      fill: #fd7e14; }
   .cs-icon__box.cs-style2 .cs-icon__box__title {
     font-size: 24px;
     font-weight: bold;
@@ -4806,7 +4766,7 @@ a.cs-demo__box.cs-style1:hover {
     border-color: #5d6b85; }
 
 .cs-icon__box.cs-style3 .cs-icon__box__icon {
-  background-color: #5e2ced;
+  background-color: #fd7e14;
   height: 115px;
   width: 115px;
   border-radius: 50%;
@@ -5109,7 +5069,7 @@ a.cs-demo__box.cs-style1:hover {
     left: 0;
     top: 0;
     border-radius: inherit;
-    background-color: #5e2ced;
+    background-color: #fd7e14;
     opacity: 0.9; }
   .cs-portfolio.cs-style1 .cs-portfolio__title {
     font-size: 24px;
@@ -5141,7 +5101,7 @@ a.cs-demo__box.cs-style1:hover {
   .cs-portfolio.cs-style1.cs-type1 .cs-portfolio__info {
     max-width: 350px; }
   .cs-portfolio.cs-style1.cs-type1 .cs-portfolio__info__bg {
-    background: linear-gradient(90deg, #5e2ced 0%, # 99%); }
+    background: linear-gradient(90deg, #fd7e14 0%, # 99%); }
   .cs-portfolio.cs-style1.cs-color1 .cs-portfolio__info__bg {
     background: linear-gradient(90deg, #3a125a 0%, #ecbf24 99%); }
 
@@ -5263,11 +5223,11 @@ ul.page-numbers {
     padding: 3px;
     background-color: #263a5d; }
     ul.page-numbers .page-numbers:hover {
-      background-color: #5e2ced; }
+      background-color: #fd7e14; }
     ul.page-numbers .page-numbers i {
       margin-left: 8px; }
     ul.page-numbers .page-numbers.current {
-      background-color: #5e2ced; }
+      background-color: #fd7e14; }
     ul.page-numbers .page-numbers.next {
       padding: 3px 15px; }
   ul.page-numbers li:not(:last-child) {
@@ -5282,7 +5242,7 @@ ul.page-numbers {
   .cs-post__meta.cs-style1 [class*=cs-post__]:not(:last-child) {
     margin-right: 20px; }
   .cs-post__meta.cs-style1 a:hover {
-    color: #5e2ced; }
+    color: #fd7e14; }
 
 .cs-post__thumb__in {
   height: 100%;
@@ -5323,7 +5283,7 @@ ul.page-numbers {
     font-weight: 800;
     margin-bottom: 0; }
     .cs-post.cs-style1 .cs-post__title a:hover {
-      color: #5e2ced; }
+      color: #fd7e14; }
   .cs-post.cs-style1 .cs-post__info {
     padding: 25px 30px;
     position: relative;
@@ -5344,7 +5304,7 @@ ul.page-numbers {
     font-size: 24px;
     font-weight: 500;
     color: #fff;
-    background-color: #5e2ced;
+    background-color: #fd7e14;
     border-radius: 50%;
     padding-top: 20px;
     padding-left: 15px;
@@ -5384,7 +5344,7 @@ ul.page-numbers {
   .cs-pricing__table.cs-style1 .cs-pricing__table__title {
     font-size: 24px;
     font-weight: bold;
-    color: #5e2ced;
+    color: #fd7e14;
     margin-bottom: 24px;
     transition: all 0.3s ease; }
   .cs-pricing__table.cs-style1 .cs-pricing {
