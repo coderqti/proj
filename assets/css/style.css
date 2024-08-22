@@ -5757,3 +5757,51 @@ ul.page-numbers {
     margin: auto; } }
 
 /*# sourceMappingURL=style.css.map */
+
+/* WhatsApp Button Styles */
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  background-color: #25d366;
+  border-radius: 50%;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+  transition: width 0.3s ease, border-radius 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  overflow: hidden;
+}
+
+.whatsapp-button img {
+  width: 35px;
+  height: 35px;
+  transition: transform 0.3s ease;
+}
+
+.whatsapp-text {
+  display: none;
+  white-space: nowrap;
+  margin-left: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+
+.whatsapp-button:hover {
+  width: 180px; /* Expands to show text */
+  border-radius: 30px; /* Rounded rectangular shape */
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.whatsapp-button:hover .whatsapp-text {
+  display: inline-block;
+}
+
+.whatsapp-button:hover img {
+  transform: scale(1.1);
+}
