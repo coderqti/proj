@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;family=Mulish:wght@400;500;600;700;800;900&amp;display=swap");
-/*--------------------------------------------------------------
-1. Typography
-----------------------------------------------------------------*/
+
 body,
 html {
   color: #5d6b85;
@@ -103,7 +101,7 @@ a:hover {
   .cs-preloader__in:after {
     content: '';
     border: 3px solid #e9e3fb;
-    border-top-color: #fd7e14;
+    border-top-color: #263a5d;
     border-radius: 50%;
     position: absolute;
     width: 100%;
@@ -421,7 +419,7 @@ a:hover {
   color: #fd7e14; }
 
 .cs-green__color {
-  color: #6ad035; }
+  color: #fd7e14; }
 
 hr {
   margin: 0;
@@ -485,13 +483,13 @@ hr {
   color: #263a5d; }
 
 .cs-yellow {
-  color: #fd7e14; }
+  color: #ecbf24; }
 
 .cs-pink {
-  color: #fb4c9b; }
+  color: #fd7e14; }
 
 .cs-green {
-  color: #ff6600; }
+  color: #fd7e14; }
 
 .cs-gray__bg {
   background-color: #fbfbfd; }
@@ -521,10 +519,10 @@ hr {
   background-color: #fb4c9b; }
 
 .cs-green__bg {
-  background-color: #; }
+  background-color: #fd7e14; }
 
 .cs-gradient__bg1 {
-  background: linear-gradient(90deg, #fd7e14 0%, #ff6600 100%); }
+  background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 100%); }
 
 .cs-left__full__width {
   height: 100%;
@@ -1195,10 +1193,10 @@ hr {
       background: linear-gradient(90deg, #2992fb 0%, #fd7e14 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color7 {
-    background: linear-gradient(90deg, #ecbf24 0%, # 100%);
+    background: linear-gradient(90deg, #ecbf24 0%, #fd7e14 100%);
     color: #fff; }
     .cs-btn.cs-style1.cs-color7:hover {
-      background: linear-gradient(90deg, #ff6600 0%, #ecbf24 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, #ecbf24 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color8 {
     background: linear-gradient(90deg, #263a5d 0%, #fb4c9b 100%);
@@ -1207,22 +1205,22 @@ hr {
       background: linear-gradient(90deg, #fb4c9b 0%, #263a5d 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color9 {
-    background: linear-gradient(90deg, #453b6f 0%, # 100%);
+    background: linear-gradient(90deg, #453b6f 0%, #fd7e14 100%);
     color: #fff; }
     .cs-btn.cs-style1.cs-color9:hover {
-      background: linear-gradient(90deg, # 0%, #453b6f 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, #453b6f 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color10 {
-    background: linear-gradient(90deg, #544886 0%, # 100%);
+    background: linear-gradient(90deg, #544886 0%, #fd7e14 100%);
     color: #fff; }
     .cs-btn.cs-style1.cs-color10:hover {
-      background: linear-gradient(90deg, # 0%, #544886 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, #544886 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color11 {
-    background: linear-gradient(90deg, # 0%, #ecbf24 100%);
+    background: linear-gradient(90deg, #fd7e14 0%, #ecbf24 100%);
     color: #263a5d; }
     .cs-btn.cs-style1.cs-color11:hover {
-      background: linear-gradient(90deg, #ecbf24 0%, # 100%);
+      background: linear-gradient(90deg, #ecbf24 0%, #fd7e14 100%);
       color: #263a5d; }
   .cs-btn.cs-style1.cs-color12 {
     background: linear-gradient(90deg, #263a5d 0%, #0464d1 100%);
@@ -1245,7 +1243,7 @@ hr {
   .cs-btn.cs-style2 i {
     margin-left: 10px; }
   .cs-btn.cs-style2:hover {
-    color: #; }
+    color: #fd7e14; }
   .cs-btn.cs-style2.cs-type1 {
     font-weight: bold;
     font-size: 18px;
@@ -1416,7 +1414,7 @@ hr {
     .cs-pagination.cs-style1 li:last-child {
       margin-right: 0; }
     .cs-pagination.cs-style1 li.slick-active {
-      background-color: #; }
+      background-color: #fd7e14; }
   .cs-pagination.cs-style1 button {
     display: none; }
 
@@ -1432,7 +1430,7 @@ hr {
     .cs-pagination.cs-style1.cs-type2 li {
       height: 25px;
       width: 8px;
-      background-color: #;
+      background-color: #fd7e14;
       border-radius: 6px;
       margin: 5px 0px; }
       .cs-pagination.cs-style1.cs-type2 li.slick-active {
@@ -1461,7 +1459,7 @@ hr {
 .cs-slider__arrows.cs-style1.cs-type1.cs-right__arrow {
   right: 0px; }
 .cs-slider__arrows.cs-style1.cs-color1 .slick-arrow {
-  background-color: #;
+  background-color: #fd7e14;
   color: #263a5d; }
   .cs-slider__arrows.cs-style1.cs-color1 .slick-arrow:hover {
     color: #fff; }
@@ -1532,8 +1530,8 @@ hr {
     cursor: pointer;
     transition: all 0.3s ease;
     border: none;
-    background-color: #;
-    color: #;
+    background-color: #fd7e14;
+    color: #fd7e14;
     overflow: hidden; }
     .slider-for .slick-arrow:before {
       content: '';
@@ -1703,10 +1701,10 @@ hr {
     color: #263a5d;
     text-transform: uppercase; }
     .cs-isotop__filter.cs-style1 a:hover {
-      color: #; }
+      color: #fd7e14; }
   .cs-isotop__filter.cs-style1 .active a {
     color: #fff;
-    background-color: #; }
+    background-color: #fd7e14; }
 
 @media screen and (max-width: 1199px) {
   .cs-isotop.cs-has__gutter__100 .cs-isotop__item {
@@ -3215,7 +3213,7 @@ input#submit {
     .cs-footer.cs-style1.cs-color2 a:hover {
       color: rgba(255, 255, 255, 0.6); }
     .cs-footer.cs-style1.cs-color2 .cs-social__btns.cs-style1 a {
-      color: #; }
+      color: #fd7e14; }
       .cs-footer.cs-style1.cs-color2 .cs-social__btns.cs-style1 a:hover {
         color: #fff; }
     .cs-footer.cs-style1.cs-color2 .cs-address__widgert ul li i {
@@ -3376,7 +3374,7 @@ input#submit {
     align-items: center;
     justify-content: center;
     margin-right: 20px;
-    color: #;
+    color: #fd7e14;
     font-size: 90px; }
     .cs-counter.cs-style3 .cs-counter__icon svg {
       width: 95px;
@@ -3530,7 +3528,7 @@ input#submit {
     justify-content: space-between;
     flex-wrap: wrap; }
   .cs-cta.cs-style1.cs-color1 {
-    background: linear-gradient(90deg, # 0%, #fd7e14 100%); }
+    background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 100%); }
   .cs-cta.cs-style1.cs-color2 {
     background: #263a5d; }
 
@@ -3575,7 +3573,7 @@ input#submit {
   .cs-cta.cs-style3.cs-color1 .cs-cta__title {
     color: #fff; }
     .cs-cta.cs-style3.cs-color1 .cs-cta__title:after {
-      background-color: #; }
+      background-color: #fd7e14; }
   .cs-cta.cs-style3.cs-color1 .cs-cta__subtitle {
     color: #fff; }
 
@@ -3605,7 +3603,7 @@ input#submit {
     font-weight: 500;
     line-height: 1.5em; }
   .cs-cta.cs-style4.cs-color1 {
-    background: linear-gradient(90deg, # 0%, #263a5d 100%); }
+    background: linear-gradient(90deg, #fd7e14 0%, #263a5d 100%); }
     .cs-cta.cs-style4.cs-color1 .cs-cta__title,
     .cs-cta.cs-style4.cs-color1 .cs-cta__subtitle {
       color: #fff; }
@@ -4124,7 +4122,7 @@ a.cs-demo__box.cs-style1:hover {
       width: 100%;
       left: 0;
       top: 0;
-      background: linear-gradient(90deg, #fd7e14 0%, # 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 100%);
       opacity: 0.8; }
     .cs-hero.cs-style3 .cs-hero__img img {
       height: 100%;
@@ -4180,7 +4178,7 @@ a.cs-demo__box.cs-style1:hover {
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
-      background-color: #;
+      background-color: #fd7e14;
       top: 0;
       border-radius: 2px; }
 
@@ -5101,7 +5099,7 @@ a.cs-demo__box.cs-style1:hover {
   .cs-portfolio.cs-style1.cs-type1 .cs-portfolio__info {
     max-width: 350px; }
   .cs-portfolio.cs-style1.cs-type1 .cs-portfolio__info__bg {
-    background: linear-gradient(90deg, #fd7e14 0%, # 99%); }
+    background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 99%); }
   .cs-portfolio.cs-style1.cs-color1 .cs-portfolio__info__bg {
     background: linear-gradient(90deg, #3a125a 0%, #ecbf24 99%); }
 
@@ -5314,7 +5312,7 @@ ul.page-numbers {
       line-height: 1.6em;
       margin-top: -2px; }
     .cs-post.cs-style1 .cs-post__date.cs-green {
-      background-color: #; }
+      background-color: #fd7e14; }
     .cs-post.cs-style1 .cs-post__date.cs-pink {
       background-color: #fb4c9b; }
   .cs-post.cs-style1.cs-type1 .cs-post__title {
@@ -5435,7 +5433,7 @@ ul.page-numbers {
     content: '';
     height: 4px;
     width: 50px;
-    background-color: #;
+    background-color: #fd7e14;
     position: absolute;
     left: 50%;
     top: 0;
@@ -5805,3 +5803,4 @@ ul.page-numbers {
 .whatsapp-button:hover img {
   transform: scale(1.1);
 }
+
