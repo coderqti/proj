@@ -1187,10 +1187,10 @@ hr {
       border-color: #fff;
       color: #fff; }
   .cs-btn.cs-style1.cs-color6 {
-    background: linear-gradient(90deg, #fd7e14 0%, #2992fb 100%);
+    background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 100%);
     color: #fff; }
     .cs-btn.cs-style1.cs-color6:hover {
-      background: linear-gradient(90deg, #2992fb 0%, #fd7e14 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color7 {
     background: linear-gradient(90deg, #ecbf24 0%, #fd7e14 100%);
@@ -1199,10 +1199,10 @@ hr {
       background: linear-gradient(90deg, #fd7e14 0%, #ecbf24 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color8 {
-    background: linear-gradient(90deg, #263a5d 0%, #fb4c9b 100%);
+    background: linear-gradient(90deg, #fd7e14 0%, #fd7e14 100%);
     color: #fff; }
     .cs-btn.cs-style1.cs-color8:hover {
-      background: linear-gradient(90deg, #fb4c9b 0%, #263a5d 100%);
+      background: linear-gradient(90deg, #fd7e14 0%, #263a5d 100%);
       color: #fff; }
   .cs-btn.cs-style1.cs-color9 {
     background: linear-gradient(90deg, #453b6f 0%, #fd7e14 100%);
