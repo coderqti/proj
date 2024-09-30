@@ -2,7 +2,7 @@
 
 body,
 html {
-  color: #5d6b85;
+  color: #000;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   line-height: 1.9em;
@@ -569,7 +569,8 @@ hr {
 .cs-list.cs-style2 {
   font-size: 16px;
   font-weight: 500;
-  color: #263a5d; }
+  color: #000
+  ; }
   .cs-list.cs-style2 li {
     display: flex;
     align-items: center; }
@@ -1434,7 +1435,7 @@ hr {
       border-radius: 6px;
       margin: 5px 0px; }
       .cs-pagination.cs-style1.cs-type2 li.slick-active {
-        background-color: #263a5d; } }
+        background-color: #000; } }
 .cs-slider__arrows.cs-style1 .slick-arrow {
   position: absolute;
   height: 50px;
