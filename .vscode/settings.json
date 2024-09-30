@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
+    "livePreview.defaultPreviewPath": "/about.html"
+=======
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
     ],
     "liveServer.settings.port": 5501
+>>>>>>> 44631181caa239c4c00c44769923e4bdbb8b05e3
 }
