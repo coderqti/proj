@@ -2,44 +2,7 @@
 
   "use strict";
 
-  /*
-  |--------------------------------------------------------------------------
-  | Template Name: Lala
-  | Author: Laralink
-  | Version: 1.0.0
-  |--------------------------------------------------------------------------
-  |--------------------------------------------------------------------------
-  | TABLE OF CONTENTS:
-  |--------------------------------------------------------------------------
-  |
-  | 1. Preloader
-  | 2. Mobile Menu
-  | 3. Sticky Header
-  | 4. Dynamic Background
-  | 5. Select2
-  | 6. Datepicker
-  | 7. Overlay
-  | 8. Slick Slider
-  | 9. Isotop Initialize
-  | 10. Review
-  | 11. Light Gallery
-  | 12. Modal Video
-  | 13. Hobble Effect
-  | 14. Parallax
-  | 15. Countdown
-  | 16. Tabs
-  | 17. Accordian
-  | 18. Progress Bar
-  | 19. CountDown
-  | 20. Ripple
-  | 21. Smooth Move
-  | 22. Scroll Up
-  |
-  */
 
-  /*--------------------------------------------------------------
-    Scripts initialization
-  --------------------------------------------------------------*/
   $.exists = function(selector) {
     return $(selector).length > 0;
   };
@@ -567,6 +530,7 @@
     }
   }
 
+  
   /*--------------------------------------------------------------
     22. Scroll Up
   --------------------------------------------------------------*/
